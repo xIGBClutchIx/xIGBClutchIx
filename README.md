@@ -4,6 +4,8 @@
 
 I build game/server tools, web projects, support utilities, and Rust game engine experiments, usually focused on making technical workflows cleaner, faster, or easier to use.
 
+A lot of my current work is private or experimental, but I use this profile to share public tools, prototypes, and project snapshots when I can.
+
 ## 🛠️ Current focus
 
 * Rust game engine work
